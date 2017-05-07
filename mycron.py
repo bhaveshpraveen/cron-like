@@ -30,7 +30,7 @@ with open(final_path, 'r+') as f:
 
 '''
 
-Set 'True' for values which have '*
+Set 'True' for values which have '*'
 
 '''
 
